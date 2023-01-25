@@ -73,7 +73,7 @@ public class Array1_int {
 			   System.out.println();
 			   System.out.println(str[5]);
 			   System.out.println(str[3]);
-			   
+			   System.out.println(str[4]);
 			   
 				   
 	}
